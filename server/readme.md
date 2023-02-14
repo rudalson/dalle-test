@@ -1,4 +1,6 @@
-### Init
+## Init
+
+### Install Packages
 
 ```
 npm init -y
@@ -21,3 +23,7 @@ package.json 에 아래 수정
 ```
 npm start
 ```
+
+## Database
+
+mongodb
